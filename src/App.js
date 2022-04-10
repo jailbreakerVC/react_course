@@ -17,7 +17,7 @@ class App extends Component {
         </Greet>
         <Welcome name="ninja hattori" age='18'></Welcome>
         <Welcome name="weolb" age='19'></Welcome>
-        <Welcome name="uwu" age="100"></Welcome>
+        <Welcome name="owo" age="100"></Welcome>
       </div>  
     );
   }
