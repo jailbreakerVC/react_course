@@ -16,7 +16,7 @@ class App extends Component {
           <button>Action</button>
         </Greet>
         <Welcome name="ninja hattori" age='18'></Welcome>
-        <Welcome name="weolb" age='19'></Welcome>
+        <Welcome name="wada" age='19'></Welcome>
         <Welcome name="merul" age="100"></Welcome>
       </div>  
     );
