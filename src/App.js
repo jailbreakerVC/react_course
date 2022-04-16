@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div className="App">
         <Message></Message>
-        <Greet name="not vijit" age='18'>
+        {/*</div><Greet name="not vijit" age='18'>
           <p>This is  children</p>
         </Greet>
         <Greet name="not jit" age='19'>
@@ -17,7 +17,7 @@ class App extends Component {
         </Greet>
         <Welcome name="ninja hattori" age='18'></Welcome>
         <Welcome name="wada" age='19'></Welcome>
-        <Welcome name="merul" age="100"></Welcome>
+    <Welcome na`me="merul" age="100"></Welcome>*/}
       </div>  
     );
   }
