@@ -8,8 +8,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>hi mom😊</h1>
-        <Counter></Counter>
+        <Message></Message>
         {/*</div><Greet name="not vijit" age='18'>
           <p>This is  children</p>
         </Greet>
@@ -20,6 +19,7 @@ class App extends Component {
         <Welcome name="wada" age='19'></Welcome>
     <Welcome na`me="merul" age="100"></Welcome>*/}
       </div>  
+      
     );
   }
 }
