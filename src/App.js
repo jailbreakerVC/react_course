@@ -4,9 +4,6 @@ import React, {Component} from 'react';
 import Greet from './components/great'
 import Welcome from './components/welcome';
 import Message from './components/message';
-import Counter from './components/counter';
-
-
 class App extends Component {
   render() {
     return (
