@@ -4,11 +4,15 @@ import React, {Component} from 'react';
 import Greet from './components/great'
 import Welcome from './components/welcome';
 import Message from './components/message';
+import Counter from './components/counter';
+
+
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Message></Message>
+        <h1>hi mom😊</h1>
+        <Counter></Counter>
         {/*</div><Greet name="not vijit" age='18'>
           <p>This is  children</p>
         </Greet>
