@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>hi mom😊</h1>
+        {/* <h1>hi mom😊</h1> */}
         {/* <Counter></Counter> */}
         {/*</div><Greet name="not vijit" age='18'>
           <p>This is  children</p>
