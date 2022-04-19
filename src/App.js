@@ -8,12 +8,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-<<<<<<< HEAD
-        {/* <h1>hi mom😊</h1> */}
-        <Counter></Counter>
-=======
-        <Message></Message>
->>>>>>> 90753d3f3bd417d7ad339f7e72d77e8a2a4c7550
+        <h1>hi mom😊</h1>
+        {/* <Counter></Counter> */}
         {/*</div><Greet name="not vijit" age='18'>
           <p>This is  children</p>
         </Greet>
